@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  &:hover {
+    color: red;
+    background: #ddd;
+  }
+}
+
+h2{
+  background: #000;
+  color: #ffff00;
+}
